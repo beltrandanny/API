@@ -1,0 +1,17 @@
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\API.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\API.pdb
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\obj\Debug\API.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\obj\Debug\API.pdb
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\RestSharp.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\RestSharp.xml
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DannyAlexanderBeltra\source\repos\API\API\obj\Debug\API.csprojAssemblyReference.cache

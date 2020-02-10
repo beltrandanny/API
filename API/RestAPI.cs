@@ -38,17 +38,7 @@ namespace API
                 string jsonData = "{\"name\":\"dannyb\"," +
                                     "\"salary\":\"1234\"," +
                                     "\"age\":\"1234\"}";
-
-                //Data empData = new Data()
-                //{
-                //    Name = "Danny",
-                //    Salary = "$2,000",
-                //    Age = "30"
-                //};
-
-                //string jsonData = SerializeEmployeeData(empData).ToString();
                 streamWriter.Write(jsonData);
-                //Console.WriteLine(jsonData);
             }
 
             var response = (HttpWebResponse)request.GetResponse();
